@@ -1,7 +1,8 @@
 # edgerouter-binaries
 
-This repository provides **prebuilt binaries for Ubiquiti EdgeRouter / EdgeOS systems**, along with
-**reproducible build instructions** for each package.
+This repository provides **prebuilt binaries for Ubiquiti EdgeRouter / EdgeOS systems**, 
+
+Comming soon: **reproducible build instructions** for each package.
 
 All binaries are built using a controlled, musl‑based cross‑compilation environment to ensure
 compatibility with EdgeOS’s older kernel and userspace. Source code is not vendored here; instead,
