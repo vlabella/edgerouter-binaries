@@ -20,10 +20,10 @@ prebuilt/
 │       ├── <package>-<version>-edgerouter-mips32.tar.gz
 │       └── checksums.sha256
 └── mips64/
-└── <package>/
-├── binaries…
-├── <package>-<version>-edgerouter-mips64.tar.gz
-└── checksums.sha256</version></package></package></version></package></package>
+    └── <package>/
+        ├── binaries…
+        ├── <package>-<version>-edgerouter-mips64.tar.gz
+        └── checksums.sha256
 ```
 
 - The top level is **CPU architecture** (`mips32`, `mips64`)
