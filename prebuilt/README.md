@@ -12,6 +12,7 @@ End users should download binaries from the GitHub Releases page instead.
 
 ## Directory Layout
 
+```
 prebuilt/
 ├── mips32/
 │   └── <package>/
@@ -23,7 +24,7 @@ prebuilt/
 ├── binaries…
 ├── <package>-<version>-edgerouter-mips64.tar.gz
 └── checksums.sha256</version></package></package></version></package></package>
-
+```
 
 - The top level is **CPU architecture** (`mips32`, `mips64`)
 - Each package has its own subdirectory
